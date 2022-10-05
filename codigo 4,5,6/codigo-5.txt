@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Codigo5 {
 
-	
+	//faltaba importar Scanner desde Java.util
 	
 	public static void main (String[] args) {
 		
@@ -25,7 +25,7 @@ public class Codigo5 {
 		      } else {
 				noAfo++;
 		    }//else
-		      
+		      //error en la colocación de código 
 		      c /= 10;
 	
 		    
